@@ -84,3 +84,4 @@ Cross compilation from an M1 Macbook (Darwin/arm64) to other platforms is also s
 #### Troubleshooting
 
 Please update your system to MacOS 11.0 or later if you are building on Darwin/arm64.
+
